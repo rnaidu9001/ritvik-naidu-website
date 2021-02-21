@@ -1,0 +1,122 @@
+            
+            /*
+            body{
+                background-color: darkgray;
+            }
+            #mainContent{
+                
+                bottom: 0;
+                margin-bottom: 0;
+                padding-bottom: 0;
+                background-color: white;
+            }
+            */
+        #navbar{
+                background-color: black;
+                color: white;
+                overflow: hidden;
+                position: fixed;
+                top: 0;
+                width: 100%;
+                padding: 0px;
+                margin: 0px;
+                border: 0px;
+            }
+            #navbar li{
+                list-style-type: none;
+                display: inline-block;
+                width: 10em;
+                
+            }
+            
+            #navbar li a{
+                text-align: center;
+            }
+            #navbar li a{
+                
+            }
+            body{
+                width: 100%;
+                padding: 0px;
+                margin: 0px;
+                border: 0px;
+            }
+            
+            #name{
+                font-family: fantasy;
+                float:left
+                font-weight: bold;
+                font-size: 2em;
+            }
+        
+            #links{
+                float:right;
+                font-family:sans-serif;
+                font-weight: bold;
+                
+            }
+            #links li a{
+                color:white;
+                text-decoration: none;
+            }
+            #links li a:hover{
+                color:yellow;
+            }
+            .heroBanner{
+                width: 100%;
+               
+            }
+            #mainContent{
+                margin: 5em;
+            }
+            footer{
+                
+                background-color: black;
+                height: 4em;
+                color: white;
+                 position: fixed;
+                  left: 0;
+                  bottom: 0;
+                  width: 100%;
+                  background-color: black;
+                  color: white;
+                  text-align: center;
+            }
+            footer div{
+                font-size: 1.3em;
+                float: center;
+                margin-top: 1.5em;
+            }
+            
+            h1{
+                font-family: fantasy;
+            }
+            h3{
+                font-family: sans-serif;
+            }
+            .image img{
+                width: 25em;
+                height: 15em;
+            }
+            #resume img{
+                width: 38em;
+                height: 50em;
+                border: 5px solid black;
+            }
+            #wordDownload img{
+                width: 10em;
+                height: 10em;
+            }
+            #pdfDownload img{
+                width: 8em;
+                height: 8em;
+            }
+            .resumeDownload{
+                display:inline-block;
+            }
+            #pdfDownload{
+                margin: 1.5em;
+            }
+ol li span{
+    font-weight: bold;
+}
