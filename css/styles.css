@@ -1,5 +1,9 @@
 /*Navbar*/
-
+.nav-link img{
+ width: 1em;
+ height: 1em;
+ 
+}
 nav.navbar.navbar-expand-lg{
         background-color: black;
         color: white;
